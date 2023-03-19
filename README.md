@@ -19,6 +19,7 @@ For example, open the door while having the button pressed.
 This should also trigger the led to flash in blue color.  
 The user can connect to the device using any Bluetooth terminal application.  
 Example: [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en)  
+Note: During this, the device is constantly enabled resulting in greater battery consumption.  
 
 ## Data storage
 Data is stored in the nvs memory of the device.  
