@@ -1,4 +1,4 @@
-# Summary
+# Door Sensor Alarm [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AGD8AB4FB6YDU)  
 An application that can be used to detect when a door or window has been opened.  
 Once such an event is detected, a notification is sent through WhatsApp.  
 The idea of this project is to be battery powered, allowing for use with batteries.  
